@@ -46,7 +46,7 @@ EDIBO projekta elektroniskā klade
 #### Terminal (hot-keys)
 
 
-CTRL+ALT+T= termināls
+CTRL+ALT+T= jauns termināls
 
 
 CTRL+SHIFT+Q= aizvērt terminālu
@@ -59,6 +59,7 @@ CTRL+SHIFT-= samazināt tekstu
 
 
 CTRL+L= notīrīt ekrānu
+
 
 
 ####  Shell (basic)
@@ -77,7 +78,10 @@ CTRL+L= notīrīt ekrānu
 b=22)
 
 
-4. echo $a+$b - aprēķināt vienadību
+4. echo $a+$b echo $(($a/$b)) echo $(($b/$a)) echo $(($b%$a))  aprēķināt vienadību
+
+
+
 
 
 
