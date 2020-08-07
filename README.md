@@ -19,8 +19,9 @@ EDIBO projekta elektroniskā klade
 
 
 
+
 #### Programs
--GitHub
+-HTML
 
 
 -Python
@@ -32,10 +33,29 @@ EDIBO projekta elektroniskā klade
 -JAVA
 
 
+-BASIC
 
 
-Teksts2
+-C++
 
 
-Teksts3
+-VISUAL BASIC
 
+
+
+#### Terminal (hot-keys)
+
+
+CTRL+ALT+T= termināls
+
+
+CTRL+SHIFT+Q= aizvērt terminālu
+
+
+CTRL+SHIFT+= palielināt tekstu
+
+
+CTRL+SHIFT-= samazināt tekstu
+
+
+CTRL+L= notīrīt ekrānu
