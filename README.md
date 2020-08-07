@@ -6,16 +6,16 @@ EDIBO projekta elektroniskā klade
 
 
 ### TOPICS:
--Programs
+1. Programs
 
 
--Terminal (hot-keys)
+2. Terminal(hot-keys)
 
 
--Shell (basic)
+3. Shell (basic)
 
 
--Git (basic)
+4. Git (basic)
 
 
 
@@ -69,10 +69,13 @@ CTRL+L= notīrīt ekrānu
  ↑ (būltiņa uz augšu) - iepriekšējā darbība
  
  
- pwd(print working directory) - atrašanās vieta 
+ pwd(print working directory) - uzzināt atrašanās vietu
  
  
  ls- saraksts 
+ 
+ 
+ cd(change directory) -pamainīt atrašanās vietu
  
 
 
