@@ -90,6 +90,12 @@ EDIBO projekta elektroniskā klade
 
 
  *PS1="$"*- samaina nosaukumu 
+ 
+ 
+ tree- koka vizualizācija
+ 
+ 
+ firefox & - ieslēgt brauzeri paralēli
 
 
 
@@ -98,7 +104,7 @@ EDIBO projekta elektroniskā klade
 b=22)
 
 
- ##### Vienadību apreiķins
+ ##### 3.1 Vienadību apreiķins
 
 
 echo $a+$b
