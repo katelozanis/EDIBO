@@ -1,14 +1,7 @@
-ls
-cd
-cd/home
-exit
+#!/bin/bash
 
-pwd
-cd.
-
-
-lm
-[A[A[A
-exit
-exit $?
-exit
+mkdir ABC
+cd ABC
+touch a.txt
+mkdir ../DEF
+cp ./a.txt ../DEF/b.txt
