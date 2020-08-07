@@ -77,7 +77,7 @@ CTRL+L= notīrīt ekrānu
 b=22)
 
 
-4. echo $a+$b - aprēķināt vienadības
+4. echo $a+$b - aprēķināt vienadību
 
 
 
