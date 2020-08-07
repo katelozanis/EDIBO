@@ -66,19 +66,26 @@ CTRL+L= notīrīt ekrānu
 
 
 
-1. ↑ (būltiņa uz augšu) - iepriekšējā darbība
+ ↑ (būltiņa uz augšu) - iepriekšējā darbība
+ 
+ 
+ pwd(print working directory) - atrašanās vieta 
+ 
+ 
+ ls- saraksts 
+ 
 
 
-2. PS1="$" - samaina nosaukumu 
+ PS1="$" - samaina nosaukumu 
 
 
 
-3. echo - prasība mašīnai 
+ echo - prasība mašīnai 
 (a=11
 b=22)
 
 
-4. Vienadību apreiķins
+ Vienadību apreiķins
 
 
 echo $a+$b
