@@ -1,0 +1,52 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  clear
+    5  lslo
+    6  clear
+    7  help
+    8  clear
+    9  history
+   10  9
+   11  clear
+   12  pws
+   13  clear
+   14  pwd
+   15  ls
+   16  man
+   17  man ls
+   18  clear
+   19  ls
+   20  cd ..
+   21  cd -
+   22  clear
+   23  PS1= "MAX"
+   24  echo PS1="MAX"
+   25  PS1="MAX"
+   26  sh
+   27  clear
+   28  last
+   29  clear
+   30  pwd
+   31  ls
+   32  ls -l
+   33  -l -a
+   34  -lt
+   35  clear
+   36  cd Desktop/
+   37  cd /home
+   38  cd
+   39  tree
+   40  clear
+   41  man tree
+   42  tree
+   43  clear
+   44  tree -d
+   45  clear
+   46  echo $1
+   47  clear
+   48  ~/EDIBO$ history > history_20200807.txt
+   49  ls -lt
+   50  pwd
+   51  cd EDIBO
+   52  history > history_20200807a.txtx 
