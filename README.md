@@ -78,7 +78,7 @@ CTRL+L= notīrīt ekrānu
 b=22)
 
 
-4.vienadību apreiķins
+4. Vienadību apreiķins
 
 
 echo $a+$b
