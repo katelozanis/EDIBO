@@ -21,44 +21,44 @@ EDIBO projekta elektroniskā klade
 
 
 #### 1. Programs
--HTML
+-*HTML*
 
 
--Python
+-*Python*
 
 
--.NET
+-*.NET*
 
 
--JAVA
+-*JAVA*
 
 
--BASIC
+-*BASIC*
 
 
--C++
+-*C++*
 
 
--VISUAL BASIC
+-*VISUAL BASIC*
 
 
 
 #### 2. Terminal (hot-keys)
 
 
-CTRL+ALT+T= jauns termināls
+*CTRL+ALT+T* = jauns termināls
 
 
-CTRL+SHIFT+Q= aizvērt terminālu
+*CTRL+SHIFT+Q* = aizvērt terminālu
 
 
-CTRL+SHIFT+ = palielināt tekstu
+*CTRL+SHIFT+* = palielināt tekstu
 
 
-CTRL+SHIFT- = samazināt tekstu
+*CTRL+SHIFT-* = samazināt tekstu
 
 
-CTRL+L= notīrīt ekrānu
+*CTRL+L* = notīrīt ekrānu
 
 
 
