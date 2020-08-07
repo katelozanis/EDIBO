@@ -77,6 +77,12 @@ CTRL+L= notīrīt ekrānu
  
  cd(change directory) -pamainīt atrašanās vietu
  
+ 
+ 
+ 
+ cd-= atnākt atpakaļ
+ 
+ 
 
 
  PS1="$" - samaina nosaukumu 
