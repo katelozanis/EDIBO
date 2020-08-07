@@ -6,16 +6,16 @@ EDIBO projekta elektroniskā klade
 
 
 ### TOPICS:
-1. Programs
+1. **Programs**
 
 
-2. Terminal (hot-keys)
+2. **Terminal (hot-keys)**
 
 
-3. Shell (basic)
+3. **Shell (basic)**
 
 
-4. Git (basic)
+4. **Git (basic)**
 
 
 
