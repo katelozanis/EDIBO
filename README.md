@@ -1,13 +1,25 @@
 # EDIBO
 EDIBO projekta elektroniskā klade
-## DAY 1 - DAY 2
+## DAY 1-DAY2
 ### TOPICS:
+-Programs
 -Terminal (hot-keys)
 -Shell (basic)
 -Git (basic)
 
-#### Tests
-Teksts1
+#### Programs
+-GitHub
+
+
+-Python
+
+
+-.NET
+
+
+-JAVA
+
+
 
 
 Teksts2
