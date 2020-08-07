@@ -1,6 +1,6 @@
 # EDIBO
 EDIBO projekta elektroniskā klade
-## DAY 1-DAY2
+## DAY 1- DAY 2
 ### TOPICS:
 -Programs
 -Terminal (hot-keys)
