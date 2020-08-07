@@ -1,6 +1,6 @@
 # EDIBO
 EDIBO projekta elektroniskā klade
-
+( Teleci.lv > SAKAI2019 )
 
 ## DAY 1- DAY 2
 
@@ -18,7 +18,7 @@ EDIBO projekta elektroniskā klade
 4. **Git (basic)**
 
 
-5. *ASCII table*
+5. **ASCII table**
 
 
 
