@@ -81,6 +81,14 @@ EDIBO projekta elektroniskā klade
  *ls* - saraksts 
  
  
+ *touch* - izveidot failu
+ 
+ 
+ 
+ *nano* - izlasīt failu
+ 
+ 
+ 
  
  
  *cd*(change directory) -pamainīt atrašanās vietu
