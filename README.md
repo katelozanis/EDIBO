@@ -18,7 +18,7 @@ EDIBO projekta elektroniskā klade
 4. **Git (basic)**
 
 
-5. **
+5. *ASCII table*
 
 
 
@@ -137,5 +137,9 @@ README. MD  - mape parāda saturu
 
 
 
+#### *ASCII table*
 
 
+
+
+[ASCII table](http://www.ecowin.org/ascii.htm)
