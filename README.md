@@ -20,7 +20,7 @@ EDIBO projekta elektroniskā klade
 
 
 
-#### Programs
+#### 1. Programs
 -HTML
 
 
@@ -43,7 +43,7 @@ EDIBO projekta elektroniskā klade
 
 
 
-#### Terminal (hot-keys)
+#### 2. Terminal (hot-keys)
 
 
 CTRL+ALT+T= jauns termināls
@@ -62,7 +62,7 @@ CTRL+L= notīrīt ekrānu
 
 
 
-####  Shell (basic)
+####  3. Shell (basic)
 
 
 
@@ -108,6 +108,10 @@ echo $(($b/$a))
  
 echo $(($b%$a))  
 
+
+
+
+####  4. GIT (basic)
 
 
 
