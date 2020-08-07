@@ -80,10 +80,13 @@ b=22)
 
 4. echo $a+$b - aprēķināt vienadību
 
+ 
  echo $(($a/$b)) 
 
+ 
  echo $(($b/$a)) 
 
+ 
  echo $(($b%$a))  
 
 
