@@ -84,13 +84,13 @@ b=22)
 echo $a+$b
 
  
- echo $(($a/$b)) 
+echo $(($a/$b)) 
 
  
- echo $(($b/$a)) 
+echo $(($b/$a)) 
 
  
- echo $(($b%$a))  
+echo $(($b%$a))  
 
 
 
