@@ -75,6 +75,8 @@ CTRL+L= notīrīt ekrānu
  ls- saraksts 
  
  
+ 
+ 
  cd(change directory) -pamainīt atrašanās vietu
  
  
@@ -82,6 +84,8 @@ CTRL+L= notīrīt ekrānu
  
  cd- = atnākt atpakaļ
  
+ 
+ cd/home - pāriet uz mājas adresi 
  
 
 
@@ -111,7 +115,10 @@ echo $(($b%$a))
 
 
 
-####  4. GIT (basic)
+####  4. Git (basic)
+
+
+/- absolutā adrese
 
 
 
