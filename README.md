@@ -127,7 +127,7 @@ echo $(($b%$a))
 ####  4. Git (basic)
 
 
-
+README. MD  - mape parāda saturu
 
 
 
