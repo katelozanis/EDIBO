@@ -9,7 +9,7 @@ EDIBO projekta elektroniskā klade
 1. Programs
 
 
-2. Terminal(hot-keys)
+2. Terminal (hot-keys)
 
 
 3. Shell (basic)
@@ -52,10 +52,10 @@ CTRL+ALT+T= jauns termināls
 CTRL+SHIFT+Q= aizvērt terminālu
 
 
-CTRL+SHIFT+= palielināt tekstu
+CTRL+SHIFT+ = palielināt tekstu
 
 
-CTRL+SHIFT-= samazināt tekstu
+CTRL+SHIFT- = samazināt tekstu
 
 
 CTRL+L= notīrīt ekrānu
@@ -80,7 +80,7 @@ CTRL+L= notīrīt ekrānu
  
  
  
- cd-= atnākt atpakaļ
+ cd- = atnākt atpakaļ
  
  
 
