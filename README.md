@@ -73,8 +73,8 @@ CTRL+L= notīrīt ekrānu
 
 
 3. echo - prasība mašīnai 
-a=11
-b=22
+(a=11
+b=22)
 
 
 4. echo $a+$b - aprēķināt vienadības
