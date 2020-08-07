@@ -65,6 +65,9 @@ EDIBO projekta elektroniskā klade
 ####  3. Shell (basic)
 
 
+ /- absolutā adrese
+
+
 
  ↑ (būltiņa uz augšu) - iepriekšējā darbība
  
@@ -124,7 +127,8 @@ echo $(($b%$a))
 ####  4. Git (basic)
 
 
-/- absolutā adrese
+
+
 
 
 
