@@ -69,31 +69,31 @@ EDIBO projekta elektroniskā klade
  ↑ (būltiņa uz augšu) - iepriekšējā darbība
  
  
- pwd(print working directory) - uzzināt atrašanās vietu
+ *pwd*(print working directory) - uzzināt atrašanās vietu
  
  
- ls- saraksts 
- 
- 
- 
- 
- cd(change directory) -pamainīt atrašanās vietu
+ *ls* - saraksts 
  
  
  
  
- cd- = atnākt atpakaļ
+ *cd*(change directory) -pamainīt atrašanās vietu
  
  
- cd/home - pāriet uz mājas adresi 
+ 
+ 
+ *cd-* = atnākt atpakaļ
+ 
+ 
+ *cd/home* - pāriet uz mājas adresi 
  
 
 
- PS1="$" - samaina nosaukumu 
+ *PS1="$"*- samaina nosaukumu 
 
 
 
- echo - prasība mašīnai 
+ *echo* - prasība mašīnai 
 (a=11
 b=22)
 
