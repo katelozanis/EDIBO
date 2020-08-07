@@ -59,3 +59,27 @@ CTRL+SHIFT-= samazināt tekstu
 
 
 CTRL+L= notīrīt ekrānu
+
+
+####  Shell (basic)
+
+
+
+1. ↑ (būltiņa uz augšu) - iepriekšējā darbība
+
+
+2. PS1="$" - samaina nosaukumu 
+
+
+
+3. echo - prasība mašīnai 
+a=11
+b=22
+
+
+4. echo $a+$b - aprēķināt vienadības
+
+
+
+
+
