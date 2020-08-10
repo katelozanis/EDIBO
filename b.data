@@ -1,0 +1,258 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1="S"
+    4  PS1="13"
+    5  clear
+    6  PS1="$"
+    7  clear
+    8  cal
+    9  cal all year
+   10  cal all
+   11  clear
+   12  cal year
+   13  cal
+   14  cal 12
+   15  cal 1990
+   16  cal
+   17  clear
+   18  cal 0
+   19  cal 1
+   20  clear
+   21  cal 0,5
+   22  clear
+   23  cal 1/2
+   24  cal 0.5
+   25  cal 1
+   26  time
+   27  start time
+   28  cloack
+   29  clock
+   30  clear
+   31  date
+   32  clear
+   33  timer
+   34  man date
+   35  clear
+   36  man cal
+   37  clear
+   38  man time
+   39  a
+   40  aa
+   41  clear
+   42  w
+   43  wh
+   44  who
+   45  w
+   46  ~ps
+   47  ps 
+   48  man ps
+   49  clear
+   50  ps a
+   51  clear
+   52  psa a
+   53  ps a
+   54  kill 960
+   55  kill 959
+   56  man date
+   57  clear
+   58  man date
+   59  clear
+   60  ps axu
+   61  clear
+   62  ECHO $HOME
+   63  clear
+   64  pwd
+   65  clear
+   66  ls
+   67  clear
+   68  echo $(pwd)
+   69  clear
+   70  printnv
+   71  printenv
+   72  clear
+   73  printenv
+   74  +
+   75  printenv |less
+   76  clear
+   77  cd
+   78  echo $HOME
+   79  cd echo $HOME
+   80  cd 'echo $HOME'
+   81  cd `echo $HOME`
+   82  pwd
+   83  cd -
+   84  cd $(echo $HOME)
+   85  pwd
+   86  pd
+   87  clear
+   88  cd -
+   89  printenv |less
+   90  clear
+   91  for i in a B @ $ D; do echo $i; done
+   92  for 3  in a B @ $ D; do echo $i; done
+   93  for i in a B @ $ D; do echo $i; done
+   94  for i in 1. Sveiki 2. Kā iet? 3. Ko dari? ; do echo $i; done
+   95  N="11 22 77 45"
+   96  clear
+   97  N="11 22 77 45"
+   98  for i in N; do echo $i; done
+   99  for i in $N; do echo $i; done
+  100  for i in seq 1 5; do echo $i; done
+  101  for i in seq 1 2 3 4 5; do echo $i; done
+  102  for i in `seq 1 5`; do echo $i; done
+  103  for i in $(seq 1 5); do echo $i; done
+  104  for i in $(seq 1 5);for i in $(($i*i)); do echo $i; done
+  105  for i in $(seq 1 5);for i in $(($i*$i)); do echo $i; done
+  106  for i in $(seq 1 5); do echo $i; done $for i in $(seq 1 5); for i in $(($i*$i)); do echo $i; done
+  107  for i in $(seq 1 5); do echo $i; done echo i
+  108  for i in $(seq 1 5); do echo $i; echo a b;  for i in $(seq 1 5); do echo $i; done echo i i
+  109  for i in $(seq 1 5); do echo $i; done; $ do echo a b; done
+  110  for i in $(seq 1 5); do echo $i; done
+  111  for i in $(seq 1 5); do echo $i; done $for i2 in $(seq 1 5); do echo $i2; done
+  112  for i in $(seq 1 5); do echo $i; done $for i2 in $(seq 1 5); do echo $i2;\
+  113  for i in $(seq 1 5); do echo $i; done $for i2 in $(seq 1 5); do echo $i2 
+  114  for i in $(seq 1 5); do echo $i; done $for i2 in $(seq 1 5); do echo i2 
+  115  for i in $(seq 1 5);f[Cor i in $(($i*$i)); do echo $i; done
+  116  for i in $(seq 1 5); do echo $i; done $for i2 in $(seq 1 5); do echo $i2; done
+  117  for i in $(seq 1 5); do echo $i; done
+  118  for i in $(seq 1 5); do echo $i; done ;$for i2 in $(seq 1 5); do echo $i2; done
+  119  for i in $(seq 1 5); do echo $i;$for i2 in $(seq 1 5); do echo $i2; done
+  120  for i in $(seq 1 5); do echo $i; done ;$for i2 in $(seq 1 5); do echo $i2; 
+  121  for i in $(seq 1 5); do echo $i;$for i2 in $(seq 1 5); do echo $i2; done
+  122  for i in $(seq 1 5); do echo $i; done $for i2 in $(seq 1 5); do echo $i2; done
+  123  for i in $(seq 1 5); do echo $i; done ;$for i2 in $(seq 1 5); do echo $i2; done
+  124  for i in $(seq 1 5); do echo $i; done ;for i2 in $(seq 1 5); do echo $i2; done
+  125  for i in $(seq 1 5); do echo $i; done ;for i in $(seq 1 5); for i in $(($i*$i)); do echo $i; done
+  126  for i in $(seq 1 5); do echo $i; done ; for i in $(($i*$i)); do echo $i; done
+  127  echo -e "a/tb"
+  128  echo -e    "a/t b"
+  129  echo -e "a/t                  b"
+  130  echo -e "  a/      t      b"
+  131  echo -e "a/      t /   t /  t "
+  132  echo -e "|a|\t/a|"
+  133  for i in $(seq i 10); do echo - e "$i \t$((i*i)); done
+  134  for i in $(seq i 10); do echo - e "$i \t$((i*i)); done
+  135  for i in $(seq i 10); do echo - e "$i \t$((i*i)); done
+  136  for i in $(seq i 10); do echo - e "$i \t$((i*i))"; done
+  137  for i in $(seq i 10); do echo - e "$i \t$((i*i)); done
+  138  for i in $(seq i 10); do echo - e "$i\t$((i*i))"; done
+  139  for i in $(seq 1 10); do echo - e "$i \t$((i*i))"; done
+  140  for i in $(seq 1 10); do echo - e "$i \t$((i*i))"; done > a. data
+  141  for i in $(seq 1 10); do echo - e "$i \t$((i*i))"; done > a.data
+  142  ls
+  143  cat a .dat
+  144  cd -
+  145  ls
+  146  exit
+  147  PS1="$"
+  148  clear
+  149  ps
+  150  ps -1
+  151  ps -a
+  152  kill 4181
+  153  ps -a
+  154  kill 4236
+  155  ls
+  156  for i in $(seq i 100); do echo $i $((i*i)); done
+  157  for i in $(seq 1 100); do echo $i $((i*i)); done
+  158  for i in $(seq 1 100); do echo $i $((i*i)); done > i.data2
+  159  ls
+  160  clear
+  161  for i in $(seq i 100); do echo $i $((i*i)); done
+  162  ls
+  163  cat i.data2
+  164  cd -
+  165  cd --
+  166  clear
+  167  ls
+  168  man a.data
+  169  ls -l
+  170  ls -l | grep a.data
+  171  chmod 000 a.dat
+  172  chmod 000 a.data
+  173  ls -l | grep a.data
+  174  ls
+  175  cat a.data
+  176  chmod 666 a.data
+  177  cat a.data
+  178  for i in ls; do echo $ ls ; done
+  179  ls
+  180  for i in $(ls); do echo $(ls) ; done
+  181  for i in $(ls); do echo $ ls ; done
+  182  for i in $(ls); do echo $ (ls)\ ; done
+  183  for i in $(ls); do echo $(ls ; done
+  184  exit
+  185  for i in $(ls); do echo $i; done >b.data
+  186  ls
+  187  ls -l
+  188  ls - l b.data
+  189  ls - l| b.data
+  190  ls - l| grep * b.data
+  191  ls - l| grep *data
+  192  ls - l | grep *data
+  193  ls - l | grep data
+  194  ls
+  195  ls - l | egrep dat
+  196  ls - l| egrep dat
+  197  man egrep
+  198  ls - l| egrep aug
+  199  clear
+  200  head -3 a.data
+  201  ls - l
+  202  ls -l
+  203  ls -l a.data
+  204  for i in $(sex 1 4); do echo "$i $((i*i))"; done > d.data
+  205  for i in $(seq 1 4); do echo "$i $((i*i))"; done > d.data
+  206  ls l l d.data
+  207  ls -l d.data
+  208  for i in $(seq 1 2); do echo "$i $((i*i))"; done > d.data
+  209  ls -l d.data
+  210  cat d.data
+  211  hexdump d.data
+  212  clear
+  213  bash iser_inpurt.sh
+  214  ~/code$ bash user_inpurt.sh
+  215  bash user_inpurt.sh
+  216  touch user_input.sh
+  217  nano user_unput.sh
+  218  bash user_input.sh
+  219  Zanis
+  220  $ bash user_inpurt.sh
+  221  $ bash user_input.sh
+  222  Enter Your Name
+  223  Zanis
+  224  cat user_input.sh
+  225  ls
+  226  cat user_input.sh
+  227  ls
+  228  rmdir user_input.sh
+  229  cd user_input.sh
+  230  nano user_input.sh
+  231  nano user_unput.sh
+  232  nano user_input.sh
+  233  clear
+  234  bash user_input.sh
+  235  httts://github.com/katelozanis.git
+  236  git clone httts://github.com/katelozanis.git
+  237  git clone https://github.com/katelozanis.git
+  238  git clone https://github.com/katelozanis/repo.git
+  239  git clone https://github.com/katelozanis/user_input.sh
+  240  git clone https://github.com/katelozanis/user_input.git
+  241  git clone https://github.com/katelozanis/repo.git
+  242  git clone https://github.com/katelozanis
+  243  git clone https://gitgub.com/katelozanis.git
+  244  git clone https://github.com/katelozanis.git
+  245  git clone https://github.com/katelozanis/EDIBO
+  246  ls
+  247  cd EDIBO
+  248  ls
+  249  cd -
+  250  nano user_input.sh
+  251  rash delete user_unput.sh
+  252  bash delete user_unput.sh
+  253  ls
+  254  bash deleteuser_unput.sh
+  255  history >.data
+  256  ls
+  257  history
+  258  history >b.data
