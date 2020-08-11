@@ -2,7 +2,7 @@
 EDIBO projekta elektroniskā klade
 ( Teleci.lv > SAKAI2019 )
 
-## DAY 1- DAY 2
+## DAY 1- DAY 5
 
 
 ### TOPICS:
