@@ -6,7 +6,7 @@ EDIBO projekta elektroniskā klade
 
 
 ### TOPICS:
-1. **Programs**
+1. **Programs and languages**
 
 
 2. **Terminal (hot-keys)**
@@ -23,7 +23,7 @@ EDIBO projekta elektroniskā klade
 
 
 
-#### 1. Programs
+#### 1. Programs languages ####
 -*HTML*
 
 
@@ -145,9 +145,17 @@ README. MD  - mape parāda saturu
 
 
 
-#### *ASCII table*
-
-
+#### 5. *ASCII table*
 
 
 [ASCII table](http://www.ecowin.org/ascii.htm)
+
+
+
+
+
+#### 5. *Loops*
+
+1) for i in abc; do echo $i; done 
+ seq 1 10
+
