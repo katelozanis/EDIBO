@@ -23,7 +23,7 @@ EDIBO projekta elektroniskā klade
 
 
 
-#### 1. Programs languages ####
+#### 1. Programs and languages ####
 -*HTML*
 
 
