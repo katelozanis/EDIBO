@@ -1,0 +1,65 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  git clone https://github.com/katelozanis/EDIBO
+    5  ls
+    6  cd EDIBO
+    7  ls
+    8  git clone https://github.com/katelozanis/EDIBO
+    9  clean
+   10  cd
+   11  clean
+   12  clear
+   13  ls
+   14  clear
+   15  cd EDIBO
+   16  cd SHELL
+   17  ls
+   18  chmod 744 test10
+   19  chmod 744 test10_nesting_while.loops.sh
+   20  SHELL
+   21  cd
+   22  git clone https://github.com/katelozanis/Fibonachinumbers
+   23  touch README.md
+   24  git init
+   25  git add README.md
+   26  git commit -m "first commit"
+   27  git remote add origin git@github.com:alexpchin/<reponame>.git
+   28  git push -u origin master
+   29  touch README.md
+   30  ls
+   31  git init
+   32  clear
+   33  git clone https://github.com/katelozanis/EDIBO
+   34  git clone https://github.com/katelozanis/Fibonachinumbers
+   35  ls
+   36  rm README.md
+   37  ls
+   38  python
+   39  clear
+   40  ipython
+   41  python
+   42  ipython
+   43  nano first_python_script.py
+   44  python first_python_script.py
+   45  nano first_python_script.py
+   46  python first_python_script.py
+   47  nano first_python_script.py
+   48  python first_python_script.py
+   49  nano first_python_script.py
+   50  python first_python_script.py
+   51  nano first_python_script.py
+   52  python first_python_script.py
+   53  cp first_python_script.py second_python_script_like_executable.py
+   54  whereis python
+   55  nano second_python_script_like_executable.py 
+   56  ls -l
+   57  chmod 744 second_python_script_like_executable.py 
+   58  ls
+   59  ./second_python_script_like_executable.py 
+   60  idle
+   61  idle &
+   62  ls -lt
+   63  cd ..
+   64  history
+   65  history> history_20200812a.txt

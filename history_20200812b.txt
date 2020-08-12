@@ -1,0 +1,119 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  git clone https://github.com/katelozanis/EDIBO
+    5  ls
+    6  cd EDIBO
+    7  ls
+    8  git clone https://github.com/katelozanis/EDIBO
+    9  clean
+   10  cd
+   11  clean
+   12  clear
+   13  ls
+   14  clear
+   15  cd EDIBO
+   16  cd SHELL
+   17  ls
+   18  chmod 744 test10
+   19  chmod 744 test10_nesting_while.loops.sh
+   20  SHELL
+   21  cd
+   22  git clone https://github.com/katelozanis/Fibonachinumbers
+   23  touch README.md
+   24  git init
+   25  git add README.md
+   26  git commit -m "first commit"
+   27  git remote add origin git@github.com:alexpchin/<reponame>.git
+   28  git push -u origin master
+   29  touch README.md
+   30  ls
+   31  git init
+   32  clear
+   33  git clone https://github.com/katelozanis/EDIBO
+   34  git clone https://github.com/katelozanis/Fibonachinumbers
+   35  ls
+   36  rm README.md
+   37  ls
+   38  cd SHELL
+   39  SHELL
+   40  echo $0
+   41  ps -p $$
+   42  cat /etc/shells
+   43  /bin/sh
+   44  clear
+   45  echo SHELL
+   46  /bin/sh
+   47  clear
+   48  $ csh
+   49  csh
+   50  cat /etc/shells
+   51  /bin/sh
+   52  ls
+   53  cd EDIBO
+   54  ls
+   55  cd SHELL
+   56  cd
+   57  cd $SHELL
+   58  pwd SHELL
+   59  bin/zsh
+   60  bin/shell
+   61  echo $0
+   62  /bin/sh
+   63  clear
+   64  mk dir shell
+   65  ls
+   66  cd EDIBO
+   67  touch SHELL
+   68  ls
+   69  cd SHELL
+   70  cd
+   71  cd EDIBO
+   72  ls
+   73  rm SHELL
+   74  cd SHELL
+   75  clear
+   76  cd ..
+   77  cd .
+   78  cd
+   79  cleat
+   80  clar
+   81  clear
+   82  ls
+   83  cd EDIBO
+   84  ls
+   85  ./dec to bin2.sg
+   86* 
+   87  ./dec to bin
+   88  ./dec_to_bin2.sh
+   89  chmod 744 dec_to_bin2.sh
+   90  chmod 744 dec_to_bin2sh
+   91  ls
+   92  ./dec_to_bin2sh
+   93  nano dec_to_bin2sh
+   94  ./dec_to_bin2sh
+   95  nano dec_to_bin2sh
+   96  ./dec_to_bin2sh
+   97  nano dec_to_bin2sh
+   98  ls
+   99  ./fib.sh
+  100  chmod 744 fib.sh
+  101  ls
+  102  ./fib.sh
+  103  nano fib.sh
+  104  ./fib.sh
+  105  nano fib.sh
+  106  ./fib.sh
+  107  nano fib.sh
+  108  nano dec_to_bin2sh
+  109  ls
+  110  touch dec_to_bin
+  111  chmod 744 dec_to_bin
+  112  nano dec_to_bin
+  113  mkdir Python
+  114  cd Python
+  115  nano README.md
+  116  cd
+  117  cd EDIBO
+  118  history
+  119  history>history_20200812b.txt
