@@ -1,0 +1,210 @@
+ 2/1: vars()
+ 2/2: a=10
+ 2/3: a
+ 2/4: type(a)
+ 2/5: dir(a)
+ 2/6: dir(A)
+ 2/7: print(a__doc__)
+ 2/8: print(a.__doc__)
+ 3/1: clear
+ 3/2: pwd
+ 3/3: echo
+ 3/4: ls
+ 3/5: nano
+ 3/6: clear
+ 4/1: clear
+ 4/2: ls -l
+ 4/3: cd Python
+ 4/4: ls
+ 4/5: cat second_python_script_like_executable.py
+ 4/6: more second_python_script_like_executable.py
+ 4/7: less second_python_script_like_executable.py
+ 4/8: clear
+ 4/9: ls
+4/10: cd
+4/11: ls
+4/12: cd EDIBO
+4/13: ls
+4/14: rmdir EDIBO
+4/15: rmdir EDIBO/
+4/16: cd EDIBO
+4/17: ls
+4/18: clear
+4/19: ls
+4/20: ls
+4/21: cd
+4/22: cd
+4/23: cl
+4/24: ls
+4/25: cd EDIBO
+4/26: ls
+4/27: cd Python
+4/28: a=11
+4/29: b=5
+4/30: a+b
+4/31: ab
+4/32: a-b
+4/33: a*b
+4/34: a/b
+ 5/1: clear
+ 5/2: nano time_python.py
+   1: clear
+   2: if (11==11): print("YES")
+   3: if (11==12): print("YES)
+   4: if (11==12): print("YES)
+   5:
+if (11==12):
+    print("Vienādi")
+   6:
+if (11==11):
+    print("Vienādi")
+   7:
+if (11==11):
+    print("Vienādi")
+    else:
+   8:
+if (11==11):
+    print("Vienādi")
+    else:
+   9:
+if (11==11):
+    print("Vienādi")
+    else:
+  10:
+if (11==11):
+    print("Vienādi")
+else:
+    print("Nevienādiba")
+  11:
+if (12==11):
+    print("Vienādi")
+else:
+    print("Nevienādiba")
+  12:
+if (12==11):
+    print("Vienādi")
+else:
+    print("Nevienādi")
+  13: %save current_session ~0/
+  14: %save current_session ~1/
+  15: ls
+  16: nano current_session.py
+  17: cat current_session.py
+  18: %history -g -f myhistory.dat
+  19: ls
+  20: cat myhistory.dat
+  21: ls
+  22:
+if (12<11):
+    print("False")
+else:
+    print("True")
+  23:
+if (12>11):
+    print("False")
+else:
+    print("True")
+  24:
+if (12>11):
+    print("False")
+elif(-3>4):
+    print ("True")
+  25:
+if (12<11):
+    print("False")
+elif(-3>4):
+    print ("True")
+  26:
+if (12<11):
+    print("False")
+elif(-3<4):
+    print ("True")
+  27:
+if (12<11):
+    print("False")
+elif(-3<4):
+    print ("True")
+else:
+    print("Final")
+  28:
+if (12<11):
+    print("False")
+elif(-3==4):
+    print ("True")
+else:
+    print("Final")
+  29: 11<22
+  30: print(11<22)
+  31: print(11==22)
+  32: 11<"11"
+  33: 11<int"11"
+  34: 11<int("11")
+  35: 11==int("11")
+  36: type(11)
+  37: type(11)==type(22)
+  38: for i in a:print(a)
+  39: for i in "a":print(a)
+  40: for i in "a": print(a)
+  41: for i in "EDIBO": print(a)
+  42: for i in "a": print(i)
+  43: for i in "EDIBO": print(i)
+  44:
+for k in "EDIBO":
+    print(k)
+    print(k)
+  45:
+for k in "1234":
+    print(k)
+   # print(k)
+  46:
+for k in "1234":
+    print(k)
+   # print(k+1)
+  47:
+for k in "1234":
+    print(k)
+   # print(k+1)
+  48:
+for k in "1234":
+    print(k)
+   # print(k+1)
+  49:
+for i in range(10):
+    print(i)
+  50:
+for i in range(5):
+    print(i)
+  51:
+for i in range(3,1):
+    print(i)
+  52:
+for i in range(3,15):
+    print(i)
+  53:
+for i in range(3,15,2):
+    print(i)
+  54:
+for i in range(-13,15,2):
+    print(i)
+  55:
+for i in range(-13,15,5):
+    print(i)
+  56:
+for i in range(-15,0,15):
+    print(i)
+  57: print("N=%d"%(a))
+  58: print("N= %d; S= %s" (a))
+  59: print("N= %d; S= %s" (a))
+  60:
+print("N= %d; S= %s"
+(a,))
+  61:
+print("N= %d; S= %s"
+(a,))
+  62:
+print("N= %d; S= %s"
+(a,b))
+  63: print("N= %d; S= %s"%(a,b))
+  64: print("N= %d; S= %s" % (a,b))
+  65: history
+  66: %history -g -f myhistory.dat
