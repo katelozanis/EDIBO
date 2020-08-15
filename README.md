@@ -18,10 +18,7 @@ EDIBO projekta elektroniskā klade
 4. **Git (basic)**
 
 
-5. **ASCII table**
-
-
-6. **Python, IDLE** 
+5. **Python, IDLE** 
 
 
 
@@ -164,21 +161,27 @@ README. MD  - mape parāda saturu
 
 
 
-#### 5. *ASCII table* #### 
+### 4.1 *ASCII table* ### 
 
 
 [ASCII table](http://www.ecowin.org/ascii.htm)
 
 
 
-#### 6. *Python, IDLE * ####
+#### 5. *Python, IDLE * ####
 
 python- lai sāktu
+
 exit()- iziet āra
+
 vars()- vārdnīca
+
 type(a)- saprast veidu
+
 a. tab tab - saprast ko var atrast
+
 dir(a)
+
 a. __doc__
 
 print(a.__doc__)
