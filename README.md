@@ -1,6 +1,11 @@
 # EDIBO
 EDIBO projekta elektroniskā klade
-( Teleci.lv > SAKAI2019 )
+ Teleci.lv > SAKAI2019 
+
+ py4e.com
+ 
+ w3schools.com
+
 
 ## DAY 1- DAY 5 ##
 
