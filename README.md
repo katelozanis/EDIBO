@@ -161,7 +161,7 @@ README. MD  - mape parāda saturu
 
 
 
-### 4.1 *ASCII table* ### 
+#### 4.1 *ASCII table* ####
 
 
 [ASCII table](http://www.ecowin.org/ascii.htm)
