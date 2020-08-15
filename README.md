@@ -2,10 +2,10 @@
 EDIBO projekta elektroniskā klade
 ( Teleci.lv > SAKAI2019 )
 
-## DAY 1- DAY 5
+## DAY 1- DAY 5 ##
 
 
-### TOPICS:
+### TOPICS: ###
 1. **Programs and languages**
 
 
@@ -21,9 +21,12 @@ EDIBO projekta elektroniskā klade
 5. **ASCII table**
 
 
+6. **Python, IDLE** 
 
 
-#### 1. Programs languages ####
+
+
+#### 1. *Programs and languages* ####
 -*HTML*
 
 
@@ -46,7 +49,7 @@ EDIBO projekta elektroniskā klade
 
 
 
-#### 2. Terminal (hot-keys)
+####  2. *Terminal* (hot-keys) #### 
 
 
 *CTRL+ALT+T* = jauns termināls
@@ -63,9 +66,11 @@ EDIBO projekta elektroniskā klade
 
 *CTRL+L* = notīrīt ekrānu
 
+*CTRL+ D
+*CTRL+ C  ___ iziet*
+*CTRL+ Z
 
-
-####  3. Shell (basic)
+####  3. *Shell* (basic) #### 
 
 
  /- absolutā adrese
@@ -118,7 +123,7 @@ EDIBO projekta elektroniskā klade
 b=22)
 
 
- ##### 3.1 Vienadību apreiķins
+ ##### 3.1 *Vienadību apreiķins*  #####
 
 
 echo $a+$b
@@ -134,8 +139,18 @@ echo $(($b%$a))
 
 
 
+#### 3.2 *Loops* #### 
 
-####  4. Git (basic)
+1) for i in abc; do echo $i; done 
+ seq 1 10
+ $ for i in $N; do echo $((i*5)); done
+ 
+
+
+
+
+
+####  4. *Git (basic)* #### 
 
 
 README. MD  - mape parāda saturu
@@ -145,17 +160,28 @@ README. MD  - mape parāda saturu
 
 
 
-#### 5. *ASCII table*
+#### 5. *ASCII table* #### 
 
 
 [ASCII table](http://www.ecowin.org/ascii.htm)
 
 
 
+#### 6. *Python, IDLE * ####
+
+python- lai sāktu
+exit()- iziet āra
+vars()- vārdnīca
+type(a)- saprast veidu
+a. tab tab - saprast ko var atrast
+dir(a)
+a. __doc__
+
+print(a.__doc__)
 
 
-#### 5. *Loops*
 
-1) for i in abc; do echo $i; done 
- seq 1 10
+
+
+
 
