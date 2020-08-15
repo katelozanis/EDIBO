@@ -67,7 +67,7 @@ EDIBO projekta elektroniskā klade
 *CTRL+L* = notīrīt ekrānu
 
 *CTRL+ D
-*CTRL+ C  ___ iziet*
+*CTRL+ C      ___ iziet*
 *CTRL+ Z
 
 ####  3. *Shell* (basic) #### 
