@@ -168,7 +168,7 @@ README. MD  - mape parāda saturu
 
 
 
-#### 5. *Python, IDLE * ####
+#### 5. *Python, IDLE* ####
 
 python- lai sāktu
 
