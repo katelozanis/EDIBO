@@ -140,7 +140,13 @@ echo $(($b%$a))
 #### 3.2 *Loops* #### 
 
 1) for i in abc; do echo $i; done 
+
+
+
  seq 1 10
+ 
+ 
+ 
  $ for i in $N; do echo $((i*5)); done
  
 
