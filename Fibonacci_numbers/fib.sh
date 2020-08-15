@@ -1,12 +1,20 @@
-#!/bin/bash
+nterms = int(input("Write a number! "))
 
-#recursive fibonacci sequence
+n1, n2 = 0, 1
+count = 0
 
-fibonacci(){
-        if [$1 -le 1 ]
-         then
-                 echo $1
-         else
-                 echo$[ `fibonacci $[ $1- 1 ]` + `fibonacci $[ $1- 2 ]`]
-         fi
-}
+if nterms <= 0:
+   print("Please enter a positive integer")
+elif nterms == 1:
+   print("Fibonacci sequence upto",nterms,":")
+   print(n1)
+else:
+   print("Fibonacci sequence:")
+   while count < nterms:
+       print(n1)
+       nth = n1 + n2
+       
+  
+       n1 = n2
+       n2 = nth
+       count += 1
