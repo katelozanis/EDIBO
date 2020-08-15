@@ -5,6 +5,9 @@ EDIBO projekta elektroniskā klade
  py4e.com
  
  w3schools.com
+ 
+ 
+ repl.it
 
 
 ## DAY 1- DAY 5 ##
@@ -190,10 +193,3 @@ dir(a)
 a. __doc__
 
 print(a.__doc__)
-
-
-
-
-
-
-
