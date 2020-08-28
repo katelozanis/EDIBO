@@ -20,8 +20,18 @@ namespace WebSocketServer
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            
+            app.UseWebSockets();
+
+            app.Use(async (Context, next) =>
+            {
+                if (HttpListenerWebSocketContext.WebSockets.IsWebSocketRequest)
+                {  
+                  WebSocket webSocket = await context.WebSockets.AcceptWebSocketAsync();
+                  Console.WriteLine("WebSocket Connected");
+                }
+                else
+                {
+                 await next();   
+                }
             });
         }
-    }
-}
