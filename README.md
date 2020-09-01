@@ -41,16 +41,13 @@ EDIBO projekta elektroniskā klade
 -*.NET*
 
 
--*JAVA*
+-*BASH*
 
 
--*BASIC*
+-*C#*
 
 
--*C++*
-
-
--*VISUAL BASIC*
+-*Visual Studio*
 
 
 
