@@ -10,13 +10,18 @@ import { MatSliderModule } from '@angular/material/slider';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import {MatButtonModule} from '@angular/material/button';
+import {MatTabsModule} from  '@angular/material/tabs';
+import {MatTableModule} from  '@angular/material/table';
 
 import { ButtonOverviewExample } from './Buttons/button-overview-example';
+import {TableBasicExample} from './Table/table-basic-example';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     ButtonOverviewExample,
+    TableBasicExample,
     
   ],
   imports: [
@@ -28,8 +33,11 @@ import { ButtonOverviewExample } from './Buttons/button-overview-example';
     MatIconModule,
     MatListModule,
     MatButtonModule,
+    MatTabsModule,
+    MatTableModule,
+    
   ],
   providers: [],
-  bootstrap: [AppComponent, ButtonOverviewExample]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
